@@ -17,16 +17,16 @@ function Navbar() {
                         GenshinImpact
                     </Link>
                     <div className={`${styles.links} ${isOpen ? styles.active : ''}`}>
-                        <Link className={styles.link} to="/">
+                        <Link className={styles.link} to="/wiki-genshin-v2">
                             Home
                         </Link>
-                        <Link className={styles.link} to="/personagens">
+                        <Link className={styles.link} to="/wiki-genshin-v2/personagens">
                             Personagens
                         </Link>
-                        <Link className={styles.link} to="/noticias">
+                        <Link className={styles.link} to="/wiki-genshin-v2/noticias">
                             Noticias
                         </Link>
-                        <Link className={styles.link} to="/sobre">
+                        <Link className={styles.link} to="/wiki-genshin-v2/sobre">
                             Sobre
                         </Link>
                     </div>
