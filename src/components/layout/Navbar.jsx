@@ -13,7 +13,7 @@ function Navbar() {
         <div className={styles.headerContainer}>
             <header className={styles.header}>
                 <nav className={styles.navbar}>
-                    <Link to={"/"} className={styles.logo}>
+                    <Link to={"/wiki-genshin-v2"} className={styles.logo}>
                         GenshinImpact
                     </Link>
                     <div className={`${styles.links} ${isOpen ? styles.active : ''}`}>
