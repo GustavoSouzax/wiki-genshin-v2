@@ -16,7 +16,7 @@ function App() {
       <Header />
       <Social />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/wiki-genshin-v2" element={<Home />} />
         <Route path="/personagens" element={<Personagens />} />
       </Routes>
       <Container customClass={"containerPages"}>
