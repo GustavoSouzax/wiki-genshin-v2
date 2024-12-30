@@ -1,0 +1,49 @@
+.characterCard {
+    background: white;
+    border-radius: 15px;
+    width: 280px;
+    overflow: hidden;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.characterCard:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+}
+
+.characterInfo {
+    padding: 10px 25px;
+}
+
+.characterCard h3 {
+    font-family: var(--font-genshin);
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: var(--cor-secundaria);
+}
+
+.characterCard p {
+    font-size: 1.2em;
+    color: #777;
+}
+
+.characterCard img {
+    display: block;
+    margin: auto;
+    width: 71%;
+    height: 250px;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+.characterCard img:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 600px) {
+    .characterCard {
+        place-self: center;
+    }
+}

@@ -1,0 +1,796 @@
+{
+    "character": [
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        },
+        {
+            "name": "<Nome personagem>",
+            "image": "<imagem do personagem>",
+            "vision": "<visão>",
+            "weapon": "arma",
+            "description": "descrição",
+            "nation": "nação do personagem",
+            "afiliation": "afiliação"
+        }
+    ]
+}

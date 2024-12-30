@@ -1,0 +1,95 @@
+.social {
+    position: fixed;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease;
+}
+
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    background-color: var(--cor02);
+    border-radius: 50%;
+    margin: 10px 0;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.icon:hover {
+    background-color: var(--cor-primaria);
+    transform: scale(1.1);
+}
+
+.mobile {
+    top: auto;
+    bottom: 15px;
+    right: 15px;
+    transform: none;
+    flex-direction: column-reverse;
+}
+
+.mobile .icon {
+    margin: 5px 0;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: all 0.3s ease, opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.mobile.expanded .icon {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
+}
+
+.shareButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background-color: var(--cor-primaria);
+    border: none;
+    border-radius: 50%;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.shareButton:hover {
+    background-color: var(--cor02);
+    transform: scale(1.1);
+}
+
+@media (max-width: 768px) {
+    .social:not(.expanded) .icon {
+        display: block;
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    .mobile.expanded .icon1 { transition-delay: 0.05s; }
+    .mobile.expanded .icon2 { transition-delay: 0.1s; }
+    .mobile.expanded .icon3 { transition-delay: 0.15s; }
+    .mobile.expanded .icon4 { transition-delay: 0.2s; }
+    .mobile.expanded .icon5 { transition-delay: 0.25s; }
+
+    .mobile:not(.expanded) .icon1 { transition-delay: 0.25s; }
+    .mobile:not(.expanded) .icon2 { transition-delay: 0.2s; }
+    .mobile:not(.expanded) .icon3 { transition-delay: 0.15s; }
+    .mobile:not(.expanded) .icon4 { transition-delay: 0.1s; }
+    .mobile:not(.expanded) .icon5 { transition-delay: 0.05s; }
+}
