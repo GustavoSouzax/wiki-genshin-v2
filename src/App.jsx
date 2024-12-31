@@ -12,18 +12,18 @@ import Social from './components/layout/Social'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/wiki-genshin-v2">
       <Header />
       <Social />
       <Routes>
-        <Route path="/wiki-genshin-v2" element={<Home />} />
-        <Route path="/wiki-genshin-v2/personagens" element={<Personagens />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/personagens" element={<Personagens />} />
       </Routes>
       <Container customClass={"containerPages"}>
         <Routes>
-          <Route path="/wiki-genshin-v2/noticias" element={<Noticias />} />
-          <Route path="/wiki-genshin-v2/sobre" element={<Sobre />} />
-          <Route path='/wiki-genshin-v2/personagem' element={<Personagem />}></Route>
+          <Route path="/noticias" element={<Noticias />} />
+          <Route path="/sobre" element={<Sobre />} />
+          <Route path='/personagem' element={<Personagem />}></Route>
         </Routes>
       </Container>
       <Footer />

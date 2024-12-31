@@ -13,20 +13,20 @@ function Navbar() {
         <div className={styles.headerContainer}>
             <header className={styles.header}>
                 <nav className={styles.navbar}>
-                    <Link to={"/wiki-genshin-v2"} className={styles.logo}>
+                    <Link to={"/"} className={styles.logo}>
                         GenshinImpact
                     </Link>
                     <div className={`${styles.links} ${isOpen ? styles.active : ''}`}>
-                        <Link className={styles.link} to="/wiki-genshin-v2">
+                        <Link className={styles.link} to="/">
                             Home
                         </Link>
-                        <Link className={styles.link} to="/wiki-genshin-v2/personagens">
+                        <Link className={styles.link} to="/personagens">
                             Personagens
                         </Link>
-                        <Link className={styles.link} to="/wiki-genshin-v2/noticias">
+                        <Link className={styles.link} to="/noticias">
                             Noticias
                         </Link>
-                        <Link className={styles.link} to="/wiki-genshin-v2/sobre">
+                        <Link className={styles.link} to="/sobre">
                             Sobre
                         </Link>
                     </div>
